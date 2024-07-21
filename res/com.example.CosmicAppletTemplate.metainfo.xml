@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>com.example.CosmicAppTemplate</id>
+  <id>com.example.CosmicAppletTemplate</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
   <project_group>COSMIC</project_group>
@@ -13,8 +13,8 @@
   <description>
     <p>A template for COSMIC applications</p>
   </description>
-  <launchable type="desktop-id">com.example.CosmicAppTemplate.desktop</launchable>
-  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/edfloreshz/cosmic-app-template/master/res/icons/hicolor/256x256/apps/com.example.CosmicAppTemplate.svg</icon>
+  <launchable type="desktop-id">com.example.CosmicAppletTemplate.desktop</launchable>
+  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/edfloreshz/cosmic-applet-template/master/res/icons/hicolor/256x256/apps/com.example.CosmicAppletTemplate.svg</icon>
   <screenshots>
   </screenshots>
   <provides>
@@ -22,7 +22,7 @@
       <mimetype>text/plain</mimetype>
     </mimetypes>
     <binaries>
-      <binary>cosmic-app-template</binary>
+      <binary>cosmic-applet-template</binary>
     </binaries>
   </provides>
 </component>
