@@ -3,10 +3,10 @@ name = "cosmic-applet-template"
 version = "0.1.0"
 edition = "2021"
 license = "GPL-3.0"
+rust-version = "1.80"
 
 [dependencies]
 i18n-embed-fl = "0.8"
-once_cell = "1.19.0"
 open = "5.1.3"
 rust-embed = "8.3.0"
 
